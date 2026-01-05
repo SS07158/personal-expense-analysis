@@ -25,3 +25,7 @@ high-expense categories, and monthly expense behavior.
 ## Outcome
 This analysis helps users gain clarity on where their money is spent and
 supports better financial decision-making.
+## Visulizations
+![Monthly Expense](screenshots/monthly.jpg)
+![Category Expense](screenshots/category.jpg)
+

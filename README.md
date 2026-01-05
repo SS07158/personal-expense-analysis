@@ -29,3 +29,10 @@ supports better financial decision-making.
 ![Monthly Expense](screenshots/monthly.jpg)
 ![Category Expense](screenshots/category.jpg)
 
+## What I Learned
+- Handling real-world datasets that do not follow ideal assumptions
+- Performing exploratory data analysis using Pandas
+- Creating meaningful visualizations to extract insights
+- Communicating insights through structured analysis
+
+
